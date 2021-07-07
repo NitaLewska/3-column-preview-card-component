@@ -10,7 +10,7 @@ html {
 
 body{
     display: flex;
-    height: 98vh;
+    height: 100vh;
     flex-direction: column;
     justify-content: center;
     align-items: center;
